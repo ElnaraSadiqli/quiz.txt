@@ -1,0 +1,10 @@
+sual1------20
+sual2-------a
+sual3-------1
+sual4-------"b"
+sual5-------e message
+sual6--------undifined
+sual7------1
+sual8-----hello
+sual9-----arg
+sual10----Bmw
